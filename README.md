@@ -292,6 +292,7 @@ print(me.motto())
 </td>
 <td align="left">
   <b>System Engineer</b><br />
+  <b>Aug 2017 - Nov 2020 · 3 yrs 4 mos</b><br />
   Linux production support · cloud operations · monitoring and runbooks
 </td>
 </tr>
