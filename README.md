@@ -187,13 +187,14 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏥 Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
+<summary><b><img height="18" src="https://logo.clearbit.com/persistent.com" alt="Persistent Systems logo" /> Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
 <br />
 
 <div align="center">
 
-![Persistent Systems](https://img.shields.io/badge/Persistent%20Systems-DevOps%20Tech%20Lead-2F6FED?style=for-the-badge&amp;logo=persistent&amp;logoColor=white)
-![UnitedHealth](https://img.shields.io/badge/UnitedHealth-Healthcare%20Client-00A6A6?style=for-the-badge&amp;logo=unitedhealthgroup&amp;logoColor=white)
+<img height="54" src="https://logo.clearbit.com/persistent.com" alt="Persistent Systems logo" />
+&nbsp;&nbsp;&nbsp;
+<img height="54" src="https://logo.clearbit.com/unitedhealthgroup.com" alt="UnitedHealth Group logo" />
 <br />
 
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&amp;logo=azuredevops&amp;logoColor=white)
@@ -215,12 +216,12 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b>🛒 Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
+<summary><b><img height="18" src="https://logo.clearbit.com/walmart.com" alt="Walmart logo" /> Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
 <br />
 
 <div align="center">
 
-![Walmart Global Tech](https://img.shields.io/badge/Walmart%20Global%20Tech-Senior%20DevOps%20Engineer-0071CE?style=for-the-badge&amp;logo=walmart&amp;logoColor=white)
+<img height="54" src="https://logo.clearbit.com/walmart.com" alt="Walmart logo" />
 <br />
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -250,12 +251,12 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b>🏢 Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
+<summary><b><img height="18" src="https://logo.clearbit.com/cognizant.com" alt="Cognizant logo" /> Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
 <br />
 
 <div align="center">
 
-![Cognizant](https://img.shields.io/badge/Cognizant-System%20Engineer-1A4CA1?style=for-the-badge&amp;logo=cognizant&amp;logoColor=white)
+<img height="54" src="https://logo.clearbit.com/cognizant.com" alt="Cognizant logo" />
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
