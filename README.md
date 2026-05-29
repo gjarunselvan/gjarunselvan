@@ -187,7 +187,31 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🛒 Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - Present | Chennai, India</b></summary>
+<summary><b>🏥 Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
+<br />
+
+<div align="center">
+
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&amp;logo=azuredevops&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare%20Client-UnitedHealth-00A6A6?style=flat-square&amp;logo=unitedhealthgroup&amp;logoColor=white)
+
+</div>
+
+- Currently working as a DevOps Tech Lead at Persistent Systems for the UnitedHealth client.
+- Leading cloud platform, DevOps, CI/CD, and production reliability work across healthcare technology workflows.
+- Driving automation-first delivery practices across infrastructure, release governance, observability, and operational support.
+- Applying AI/RAG and agentic automation patterns to improve diagnostics, knowledge workflows, and DevOps execution.
+
+</details>
+
+<br />
+
+<details>
+<summary><b>🛒 Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
 <br />
 
 <div align="center">
