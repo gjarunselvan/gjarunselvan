@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=240&amp;section=header&amp;text=Arun%20Selvan%20G%20J&amp;fontSize=58&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20DevOps%20and%20Cloud%20Platform%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20AI-Driven%20Automation&amp;descAlignY=60&amp;descSize=18" alt="Arun Selvan G J" />
 
-<a href="https://github.com/gjarunselvan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=840&amp;height=58&amp;lines=%F0%9F%94%A7+9%2B+Years+Building+Enterprise+Cloud+Platforms;%E2%98%81%EF%B8%8F+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Argo+CD;%F0%9F%A4%96+AI-Driven+Automation+%7C+RAG+%7C+Multi-Agent+Systems;%F0%9F%93%8A+99.99%25+Uptime+%7C+40%25%2B+Faster+Releases+%7C+30%25+Cost+Saved" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=840&height=58&lines=9%2B+Years+Building+Enterprise+Cloud+Platforms;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Argo+CD;AI-Driven+Automation+%7C+RAG+%7C+Multi-Agent+Systems;99.99%25+Uptime+%7C+40%25%2B+Faster+Releases+%7C+30%25+Cost+Saved)](https://github.com/gjarunselvan)
 
 <br />
 
@@ -132,10 +130,25 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/gjarunselvan">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gjarunselvan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=12&amp;rank_icon=github&amp;show=reviews,discussions_started" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gjarunselvan&amp;theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/gjarunselvan">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gjarunselvan&amp;theme=tokyonight" alt="Repos per Language" />
   </a>
   <a href="https://github.com/gjarunselvan">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjarunselvan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12" alt="Top Languages" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gjarunselvan&amp;theme=tokyonight" alt="Most Commit Language" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/gjarunselvan">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gjarunselvan&amp;theme=tokyonight" alt="GitHub Summary Stats" />
+  </a>
+  <a href="https://github.com/gjarunselvan">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gjarunselvan&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Productive Time" />
   </a>
 </div>
 
@@ -148,8 +161,22 @@ print(me.motto())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gjarunselvan&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;area_color=533AB7&amp;hide_border=true&amp;radius=8" alt="GitHub Activity Graph" />
 </div>
 
+## 🏆 Signal Wall
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gjarunselvan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=6" alt="GitHub Trophies" />
+
+<img src="https://img.shields.io/badge/Public%20Repos-Available-38BDAE?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public repos available" />
+<img src="https://img.shields.io/badge/Profile%20Stats-Live%20SVG-70A5FD?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Profile stats live" />
+<img src="https://img.shields.io/badge/Snake%20Graph-Auto%20Generated-BF91F3?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Snake graph auto generated" />
+<img src="https://img.shields.io/badge/Activity%20Graph-Rendering-00D26A?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" alt="Activity graph rendering" />
+
+| Badge | What It Represents |
+|:---:|:---|
+| 🚀 Platform Builder | AWS, Kubernetes, IaC, GitOps, and enterprise CI/CD |
+| 🛡️ Reliability Operator | 99.99% uptime, 35% MTTR reduction, production observability |
+| 🤖 AI/RAG Automator | RAG memory layers, incident diagnostics, release intelligence |
+| 💸 Cost Optimizer | 30% cloud spend optimization through autoscaling and governance |
+
 </div>
 
 ---
