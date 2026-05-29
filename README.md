@@ -192,9 +192,24 @@ print(me.motto())
 
 <div align="center">
 
-<img height="54" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" />
-&nbsp;&nbsp;&nbsp;
-<img height="54" src="https://www.google.com/s2/favicons?domain=unitedhealthgroup.com&amp;sz=128" alt="UnitedHealth Group logo" />
+<table>
+<tr>
+<td align="center" width="140">
+  <img height="82" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" /><br />
+  <b>Persistent Systems</b>
+</td>
+<td align="center" width="140">
+  <img height="82" src="https://www.google.com/s2/favicons?domain=unitedhealthgroup.com&amp;sz=128" alt="UnitedHealth Group logo" /><br />
+  <b>UnitedHealth</b>
+</td>
+<td align="left">
+  <b>DevOps Tech Lead</b><br />
+  Healthcare client delivery · platform reliability · automation-first execution
+</td>
+</tr>
+</table>
+
+<b>Core Stack</b>
 <br />
 
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&amp;logo=azuredevops&amp;logoColor=white)
@@ -221,7 +236,20 @@ print(me.motto())
 
 <div align="center">
 
-<img height="54" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" />
+<table>
+<tr>
+<td align="center" width="150">
+  <img height="86" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" /><br />
+  <b>Walmart Global Tech</b>
+</td>
+<td align="left">
+  <b>Senior Systems Engineer III / Senior DevOps Engineer</b><br />
+  Enterprise platform engineering · EKS reliability · GitOps modernization
+</td>
+</tr>
+</table>
+
+<b>Core Stack</b>
 <br />
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -256,7 +284,20 @@ print(me.motto())
 
 <div align="center">
 
-<img height="54" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" />
+<table>
+<tr>
+<td align="center" width="150">
+  <img height="86" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" /><br />
+  <b>Cognizant</b>
+</td>
+<td align="left">
+  <b>System Engineer</b><br />
+  Linux production support · cloud operations · monitoring and runbooks
+</td>
+</tr>
+</table>
+
+<b>Core Stack</b>
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
