@@ -9,6 +9,9 @@
 <a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://wa.me/917448440011"><img src="https://img.shields.io/badge/WhatsApp-%2B91%207448440011-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
+<a href="tel:+917448440011"><img src="https://img.shields.io/badge/Call-%2B91%207448440011-38BDAE?style=for-the-badge&amp;logo=googlevoice&amp;logoColor=white" alt="Call" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&amp;altresid"><img src="https://img.shields.io/badge/Naukri-Profile-275DF5?style=for-the-badge&amp;logo=naukri&amp;logoColor=white" alt="Naukri Profile" /></a>
 <a href="https://komarev.com/ghpvc/?username=gjarunselvan&amp;style=for-the-badge&amp;color=blueviolet&amp;label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=gjarunselvan&amp;style=for-the-badge&amp;color=blueviolet&amp;label=PROFILE+VIEWS" alt="Profile views" /></a>
 
 </div>
@@ -364,6 +367,9 @@ flowchart LR
 <a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View Portfolio" /></a>
 <a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an Email" /></a>
+<a href="https://wa.me/917448440011"><img src="https://img.shields.io/badge/WhatsApp-%2B91%207448440011-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
+<a href="tel:+917448440011"><img src="https://img.shields.io/badge/Call-%2B91%207448440011-38BDAE?style=for-the-badge&amp;logo=googlevoice&amp;logoColor=white" alt="Call" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&amp;altresid"><img src="https://img.shields.io/badge/Naukri-Profile-275DF5?style=for-the-badge&amp;logo=naukri&amp;logoColor=white" alt="Naukri Profile" /></a>
 
 </div>
 
