@@ -192,6 +192,10 @@ print(me.motto())
 
 <div align="center">
 
+![Persistent Systems](https://img.shields.io/badge/Persistent%20Systems-DevOps%20Tech%20Lead-2F6FED?style=for-the-badge&amp;logo=persistent&amp;logoColor=white)
+![UnitedHealth](https://img.shields.io/badge/UnitedHealth-Healthcare%20Client-00A6A6?style=for-the-badge&amp;logo=unitedhealthgroup&amp;logoColor=white)
+<br />
+
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&amp;logo=azuredevops&amp;logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
@@ -215,6 +219,9 @@ print(me.motto())
 <br />
 
 <div align="center">
+
+![Walmart Global Tech](https://img.shields.io/badge/Walmart%20Global%20Tech-Senior%20DevOps%20Engineer-0071CE?style=for-the-badge&amp;logo=walmart&amp;logoColor=white)
+<br />
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -247,6 +254,9 @@ print(me.motto())
 <br />
 
 <div align="center">
+
+![Cognizant](https://img.shields.io/badge/Cognizant-System%20Engineer-1A4CA1?style=for-the-badge&amp;logo=cognizant&amp;logoColor=white)
+<br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
