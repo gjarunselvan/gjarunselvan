@@ -187,14 +187,14 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details open>
-<summary><b><img height="18" src="https://logo.clearbit.com/persistent.com" alt="Persistent Systems logo" /> Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" /> Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
 <br />
 
 <div align="center">
 
-<img height="54" src="https://logo.clearbit.com/persistent.com" alt="Persistent Systems logo" />
+<img height="54" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" />
 &nbsp;&nbsp;&nbsp;
-<img height="54" src="https://logo.clearbit.com/unitedhealthgroup.com" alt="UnitedHealth Group logo" />
+<img height="54" src="https://www.google.com/s2/favicons?domain=unitedhealthgroup.com&amp;sz=128" alt="UnitedHealth Group logo" />
 <br />
 
 ![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&amp;logo=azuredevops&amp;logoColor=white)
@@ -216,12 +216,12 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b><img height="18" src="https://logo.clearbit.com/walmart.com" alt="Walmart logo" /> Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" /> Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
 <br />
 
 <div align="center">
 
-<img height="54" src="https://logo.clearbit.com/walmart.com" alt="Walmart logo" />
+<img height="54" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" />
 <br />
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -251,12 +251,12 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b><img height="18" src="https://logo.clearbit.com/cognizant.com" alt="Cognizant logo" /> Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" /> Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
 <br />
 
 <div align="center">
 
-<img height="54" src="https://logo.clearbit.com/cognizant.com" alt="Cognizant logo" />
+<img height="54" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" />
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
