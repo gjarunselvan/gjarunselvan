@@ -332,6 +332,17 @@ flowchart LR
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Daily%20Mode-Build%20%E2%86%92%20Automate%20%E2%86%92%20Observe-70A5FD?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Daily mode" />
+<img src="https://img.shields.io/badge/Platform%20Loop-Code%20%E2%86%92%20CI%20%E2%86%92%20GitOps%20%E2%86%92%20SRE-38BDAE?style=for-the-badge&amp;logo=argo&amp;logoColor=white" alt="Platform loop" />
+<img src="https://img.shields.io/badge/AI%20Loop-Signals%20%E2%86%92%20RAG%20%E2%86%92%20Agents%20%E2%86%92%20Actions-BF91F3?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI loop" />
+
+| Flow | Focus | Output |
+|:---:|:---|:---|
+| ⚙️ | Infrastructure as Code | repeatable environments, safer changes |
+| 🚢 | CI/CD + GitOps | controlled releases, faster delivery |
+| 📈 | Observability | clearer incidents, lower MTTR |
+| 🤖 | AI/RAG automation | smarter diagnostics, reusable knowledge |
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gjarunselvan/gjarunselvan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gjarunselvan/gjarunselvan/output/github-contribution-grid-snake.svg" />
