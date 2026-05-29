@@ -187,7 +187,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details open>
-<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" /> Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=persistent.com&amp;sz=128" alt="Persistent Systems logo" /> Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present · Current | India</b></summary>
 <br />
 
 <div align="center">
@@ -231,7 +231,7 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" /> Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=walmart.com&amp;sz=128" alt="Walmart logo" /> Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 · 5 yrs 7 mos | Chennai, India</b></summary>
 <br />
 
 <div align="center">
@@ -279,7 +279,7 @@ print(me.motto())
 <br />
 
 <details open>
-<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" /> Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
+<summary><b><img height="18" src="https://www.google.com/s2/favicons?domain=cognizant.com&amp;sz=128" alt="Cognizant logo" /> Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 · 3 yrs 4 mos | India</b></summary>
 <br />
 
 <div align="center">
