@@ -244,6 +244,7 @@ print(me.motto())
 </td>
 <td align="left">
   <b>Senior Systems Engineer III / Senior DevOps Engineer</b><br />
+  <b>Nov 2020 - May 2026 · 5 yrs 7 mos</b><br />
   Enterprise platform engineering · EKS reliability · GitOps modernization
 </td>
 </tr>
