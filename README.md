@@ -311,8 +311,8 @@ flowchart LR
 | Qualification | Institution | Year |
 |:---|:---|:---:|
 | B.E. Computer Science | Jeppiar Institute of Technology, Chennai | 2013 - 2016 |
-| Diploma in Computer Science Engineering | Sai Ram Polytechnic College | Not listed |
-| Class X | Mak Matriculation Higher Secondary School | Not listed |
+| Diploma in Computer Science Engineering | Sai Ram Polytechnic College | 2010 - 2013 |
+| Class X | Mak Matriculation Higher Secondary School | 2010 |
 
 </div>
 
