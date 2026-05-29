@@ -186,7 +186,7 @@ print(me.motto())
 
 ## 💼 Work Experience
 
-<details>
+<details open>
 <summary><b>🏥 Persistent Systems — DevOps Tech Lead, UnitedHealth client | May 2026 - Present | India</b></summary>
 <br />
 
@@ -210,7 +210,7 @@ print(me.motto())
 
 <br />
 
-<details>
+<details open>
 <summary><b>🛒 Walmart Global Tech — Senior Systems Engineer III / Senior DevOps Engineer | Nov 2020 - May 2026 | Chennai, India</b></summary>
 <br />
 
@@ -242,7 +242,7 @@ print(me.motto())
 
 <br />
 
-<details>
+<details open>
 <summary><b>🏢 Cognizant Technology Solutions — System Engineer (DevOps / Linux / Cloud Support) | Aug 2017 - Nov 2020 | India</b></summary>
 <br />
 
