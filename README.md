@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Arun%20Selvan%20G%20J&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20DevOps%20%26%20Cloud%20Platform%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20AI-Driven%20Automation&descAlignY=60&descSize=18" alt="Arun Selvan G J" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=240&amp;section=header&amp;text=Arun%20Selvan%20G%20J&amp;fontSize=58&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20DevOps%20and%20Cloud%20Platform%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20AI-Driven%20Automation&amp;descAlignY=60&amp;descSize=18" alt="Arun Selvan G J" />
 
 <a href="https://github.com/gjarunselvan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=840&height=58&lines=%F0%9F%94%A7+9%2B+Years+Building+Enterprise+Cloud+Platforms;%E2%98%81%EF%B8%8F+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Argo+CD;%F0%9F%A4%96+AI-Driven+Automation+%7C+RAG+%7C+Multi-Agent+Systems;%F0%9F%93%8A+99.99%25+Uptime+%7C+40%25%2B+Faster+Releases+%7C+30%25+Cost+Saved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=840&amp;height=58&amp;lines=%F0%9F%94%A7+9%2B+Years+Building+Enterprise+Cloud+Platforms;%E2%98%81%EF%B8%8F+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Argo+CD;%F0%9F%A4%96+AI-Driven+Automation+%7C+RAG+%7C+Multi-Agent+Systems;%F0%9F%93%8A+99.99%25+Uptime+%7C+40%25%2B+Faster+Releases+%7C+30%25+Cost+Saved" alt="Typing SVG" />
 </a>
 
 <br />
 
-<a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://komarev.com/ghpvc/?username=gjarunselvan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=gjarunselvan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://komarev.com/ghpvc/?username=gjarunselvan&amp;style=for-the-badge&amp;color=blueviolet&amp;label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=gjarunselvan&amp;style=for-the-badge&amp;color=blueviolet&amp;label=PROFILE+VIEWS" alt="Profile views" /></a>
 
 </div>
 
@@ -23,16 +23,16 @@
 
 <table>
 <tr>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Release%20Velocity-%2B40%25%20Faster-70A5FD?style=for-the-badge&logo=rocket&logoColor=white" alt="Release Velocity" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Cloud%20Cost-%E2%88%9230%25%20Saved-38BDAE?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Cost" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/AI%20Throughput-%2B200%25%20Boost-BF91F3?style=for-the-badge&logo=openai&logoColor=white" alt="AI Throughput" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Uptime-99.99%25-00D26A?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Release%20Velocity-%2B40%25%20Faster-70A5FD?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="Release Velocity" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Cloud%20Cost-%E2%88%9230%25%20Saved-38BDAE?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="Cloud Cost" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/AI%20Throughput-%2B200%25%20Boost-BF91F3?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI Throughput" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Uptime-99.99%25-00D26A?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" alt="Uptime" /></td>
 </tr>
 <tr>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Ops%20Automated-%E2%88%9260%25%20Manual-FF9900?style=for-the-badge&logo=ansible&logoColor=white" alt="Ops Automated" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/MTTR%20Reduced-%E2%88%9235%25-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="MTTR Reduced" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Traffic%20Scaled-3%C3%97%20Growth-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Traffic Scaled" /></td>
-<td align="center" width="200"><img src="https://img.shields.io/badge/Experience-9%2B%20Years-533AB7?style=for-the-badge&logo=github&logoColor=white" alt="Experience" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Ops%20Automated-%E2%88%9260%25%20Manual-FF9900?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ops Automated" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/MTTR%20Reduced-%E2%88%9235%25-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="MTTR Reduced" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Traffic%20Scaled-3%C3%97%20Growth-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Traffic Scaled" /></td>
+<td align="center" width="200"><img src="https://img.shields.io/badge/Experience-9%2B%20Years-533AB7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Experience" /></td>
 </tr>
 </table>
 
@@ -132,24 +132,24 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/gjarunselvan">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gjarunselvan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&rank_icon=github&show=reviews,discussions_started" alt="GitHub Stats" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gjarunselvan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=12&amp;rank_icon=github&amp;show=reviews,discussions_started" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/gjarunselvan">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjarunselvan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjarunselvan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
   <br />
-  <img src="https://streak-stats.demolab.com?user=gjarunselvan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gjarunselvan&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=12" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gjarunselvan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=533AB7&hide_border=true&radius=8" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gjarunselvan&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;area_color=533AB7&amp;hide_border=true&amp;radius=8" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gjarunselvan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gjarunselvan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -276,10 +276,10 @@ print(me.motto())
 
 <br />
 
-<a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
-<a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" /></a>
+<a href="https://linkedin.com/in/gjarunselvan"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://portfolio.gjarunselvan.online"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View Portfolio" /></a>
+<a href="mailto:gjarunselvan@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an Email" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=140&amp;section=footer&amp;animation=twinkling" alt="Footer wave" />
