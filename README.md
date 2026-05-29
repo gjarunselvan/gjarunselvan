@@ -226,6 +226,37 @@ print(me.motto())
 
 ---
 
+## 🧠 AI + RAG Command Center
+
+<div align="center">
+
+| Signal | AI/RAG Move | Outcome |
+|:---:|:---|:---|
+| 📚 Infra knowledge | RAG pipelines with memory layers and evaluation checks | Faster decision automation and fewer repeated lookups |
+| 🔍 Logs + alerts | LLM-assisted incident diagnostics over Splunk, ELK, Prometheus, and Grafana signals | Lower MTTR and clearer root-cause paths |
+| 🤖 Repetitive ops | Multi-agent workflows across APIs, CLI tools, and cloud services | **200%** selected workflow throughput boost |
+| 📝 Release context | AI-generated release notes and operational summaries | Cleaner handoffs and stronger deployment governance |
+
+</div>
+
+```mermaid
+flowchart LR
+    A["Production Signals<br/>logs, metrics, alerts"] --> B["RAG Knowledge Layer<br/>runbooks, incidents, cloud docs"]
+    B --> C["AI Agent Orchestrator<br/>Python, Bash, APIs, CLI"]
+    C --> D["DevOps Actions<br/>diagnostics, release notes, remediation hints"]
+    D --> E["Platform Outcomes<br/>99.99% uptime, -35% MTTR, +40% releases"]
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RAG-Memory%20%2B%20Retrieval%20%2B%20Evaluation-38BDAE?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Agents-APIs%20%2B%20CLI%20%2B%20Cloud-BF91F3?style=for-the-badge&amp;logo=probot&amp;logoColor=white" alt="Agents" />
+<img src="https://img.shields.io/badge/AIOps-Logs%20%2B%20Incidents%20%2B%20Releases-00B4D8?style=for-the-badge&amp;logo=datadog&amp;logoColor=white" alt="AIOps" />
+
+</div>
+
+---
+
 ## 🏅 Achievements
 
 <div align="center">
@@ -247,9 +278,11 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| B.E. Computer Science | Jeppiar Institute of Technology, Chennai | 2013 - 2016 | Not listed in resume |
+| Qualification | Institution | Year |
+|:---|:---|:---:|
+| B.E. Computer Science | Jeppiar Institute of Technology, Chennai | 2013 - 2016 |
+| Diploma in Computer Science Engineering | Sai Ram Polytechnic College | Not listed |
+| Class X | Mak Matriculation Higher Secondary School | Not listed |
 
 </div>
 
@@ -265,6 +298,20 @@ print(me.motto())
 🛡️ DevSecOps            → IAM governance · vulnerability remediation · release safety gates
 📈 AI Ops               → log analysis · incident diagnostics · release-note generation
 ```
+
+---
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gjarunselvan/gjarunselvan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gjarunselvan/gjarunselvan/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/gjarunselvan/gjarunselvan/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
